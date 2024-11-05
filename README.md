@@ -30,7 +30,7 @@
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Tow&layout=compact)](https://github.com/ab/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Town&layout=compact)](https://github.com/ab/github-readme-stats)<br>
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=abrahamdw882)
 <br>
 
