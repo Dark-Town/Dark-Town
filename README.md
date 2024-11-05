@@ -90,14 +90,14 @@
 <!-- Contact Mr Abraham -->
 <b><details><summary>Click to Chat Me</summary></b>
 
-## ```Connect With Mr Abraham```
+## ```Connect With Mr Crone```
 
 ## Follow me on
 <a href="https://abrahamdw882.github.io/ABBOTWEB.github.io/portfolio.html"><img alt="Telegram bot" src="https://img.shields.io/badge/Bot-Developer Abraham-blue"/></a>
  <a href="https://instagram.com"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_Abraham-ff69b4"/></a>
-<a href="https://m.youtube.com"><img src="https://img.shields.io/badge/Subscribe Mr Abraham-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://m.youtube.com"><img src="https://img.shields.io/badge/Subscribe Mr Abraham-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/cbf_263" /><br>
 </p>
-<a href="https://wa.me//233533763772?text=Hi%20I%20Am%20From%20GitHub%20☺️">
+<a href="https://wa.me//263716394979?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
 
