@@ -1,10 +1,3 @@
--->
-<p align="center">
-   <a href="https://github.com/Dark-Town">
-    <img src="https://github.com/Dark-Town/ABBOTWEB.github.io/blob/main/Guru.jpg"width="180" > </a>
-    </p>
-
-
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+Mr+Abraham+;Thanks+for+Visiting+;Follow+my+github"
